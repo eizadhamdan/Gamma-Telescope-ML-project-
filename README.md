@@ -1,6 +1,7 @@
-# My-machine-learning-journey
+# Gamma-Telescope-ML-project
 
-This is my first machine learning project.
+
+This ML model simulates registration of high energy gamma particles in an atmospheric Cherenkov telescope.
 
 
 
